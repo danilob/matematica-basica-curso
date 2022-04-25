@@ -22,8 +22,8 @@ title: Matemática Básica para Ingressantes
 email: danilo@frn.uespi.br
 description: >- # this means to ignore newlines until "baseurl:"
   Curso de extensão gratuito para ingressantes ou recém ingressantes de curso superior.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://danilob.github.io/matematica-basica-curso" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
