@@ -3,10 +3,15 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
+<style>
+.post-list-heading{
+    color: #FC5185;
+}
+</style>
 
 <main class="page-content" aria-label="Content">
 <div class="home">
-          <img src="/assets/images/capa.png" alt="" class="full">
+          <img src="https://danilob.github.io/matematica-basica-curso/assets/images/capa.png" alt="" class="full">
 
           <h2 class="post-list-heading">Apresentação e Público Alvo</h2>
 
