@@ -42,13 +42,13 @@ layout: page
           </ul>
           <h2 class="post-list-heading">Inscrições</h2>
           As inscrições serão realizadas <b>a partir do dia 05/05 e segue até dia 07/05</b>, ou até 
-          o preencimento das vagas. Serão disponibilizadas <b>60 vagas</b>. Logo abaixo aparecerá um botão
+          o preenchimento das vagas. Serão disponibilizadas <b>60 vagas</b>. Logo abaixo aparecerá um botão
           para realização da inscrição, a partir das 9h da manhã do dia 05/05. <b>Pré-requisito: possuir e-mail no gmail</b>.
           <h2 class="post-list-heading">Realização</h2>
           Este curso é oferecido pela UESPI sob coordenação dos professores Danilo Borges da Silva e
           Diego Cardoso dos Santos, professores lotados no curso de Ciência da Computação (Floriano/Campus Dra. Josefina Demes).
 
           <h2 class="post-list-heading">Contato</h2>
-          Para mais informações entre em contato através dos e-mails: danilo@frn.uespi.br ou diegodsantos@frn.uespi.br.
+          Para mais informações entre em contato através dos e-mails: danilo@frn.uespi.br ou diegocdsantos@frn.uespi.br.
       </div>
 </main>
