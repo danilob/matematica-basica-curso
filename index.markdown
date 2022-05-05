@@ -81,8 +81,11 @@ a:active {
           para realização da inscrição, a partir das 9h da manhã do dia 05/05. <b>Pré-requisito: possuir e-mail no gmail</b>.<br>
 
           <center>
-          <a href="https://forms.gle/n4589GdNHPdeF7F49" target="_blank" class="btn">Clique Aqui para Realizar a Inscrição no Curso</a>
-          </center>
+          <div class="btn">Inscrições Encerradas</a>
+          </div>
+
+          Até o dia 12/05 quem se inscreveu receberá informações se foi ou não selecionado para o curso. Quem tiver sido selecionado receberá todos os dados de acesso as plataformas de ensino (google sala de aula e google meet). Atenção: quem tiver fornecido um e-mail que não esteja no G Suite do google infelizmente não poderá fazer o curso.
+
           <h2 class="post-list-heading">Realização</h2>
           Este curso é oferecido pela UESPI sob coordenação dos professores Danilo Borges da Silva e
           Diego Cardoso dos Santos, professores lotados no curso de Ciência da Computação (Floriano/Campus Dra. Josefina Demes).
