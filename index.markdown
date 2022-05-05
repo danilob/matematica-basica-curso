@@ -7,6 +7,41 @@ layout: page
 .post-list-heading{
     color: #FC5185;
 }
+
+.btn{
+  display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  background: #FC5185;
+  color: white;
+  padding: 0.8em;
+  border-radius: 5px;
+  border: 1px solid #FC5185;
+
+}
+
+/* unvisited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
+
+/* mouse over link */
+a:hover {
+  text-decoration: none;
+  color: white;
+  box-shadow: 0 0 1em gray;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
 </style>
 
 <main class="page-content" aria-label="Content">
@@ -43,7 +78,11 @@ layout: page
           <h2 class="post-list-heading">Inscrições</h2>
           As inscrições serão realizadas <b>a partir do dia 05/05 e segue até dia 07/05</b>, ou até 
           o preenchimento das vagas. Serão disponibilizadas <b>60 vagas</b>. Logo abaixo aparecerá um botão
-          para realização da inscrição, a partir das 9h da manhã do dia 05/05. <b>Pré-requisito: possuir e-mail no gmail</b>.
+          para realização da inscrição, a partir das 9h da manhã do dia 05/05. <b>Pré-requisito: possuir e-mail no gmail</b>.<br>
+
+          <center>
+          <a href="https://forms.gle/n4589GdNHPdeF7F49" target="_blank" class="btn">Clique Aqui para Realizar a Inscrição no Curso</a>
+          </center>
           <h2 class="post-list-heading">Realização</h2>
           Este curso é oferecido pela UESPI sob coordenação dos professores Danilo Borges da Silva e
           Diego Cardoso dos Santos, professores lotados no curso de Ciência da Computação (Floriano/Campus Dra. Josefina Demes).
