@@ -78,14 +78,14 @@ a:active {
           <h2 class="post-list-heading">Inscrições</h2>
           As inscrições serão realizadas <b>a partir do dia 05/05 e segue até dia 07/05</b>, ou até 
           o preenchimento das vagas. Serão disponibilizadas <b>60 vagas</b>. Logo abaixo aparecerá um botão
-          para realização da inscrição, a partir das 9h da manhã do dia 05/05. <b>Pré-requisito: possuir e-mail no gmail</b>.<br>
+          para realização da inscrição, a partir das 9h da manhã do dia 05/05. <b>Pré-requisito: possuir e-mail no gmail</b>.<br><br>
 
           <center>
           <div class="btn">Inscrições Encerradas</div>
           </center>
           <br>
 
-          As inscrições foram encerradas às 14h do dia 05/05, pois já haviam ultrapassado a quantidade de vagas disponíveis. Chegamos a 373 inscritos em menos de 6h desde o início das inscrições. Logo, para evitar uma falsa esperança de entrada no curso decidimos encerrar as inscrições. <b>Boa notícia</b>: devido a grande procura iremos postar por aqui mesmo as aulas e atividades propostas ao longo do curso, para àqueles que não conseguiram se inscrever e querem ter acesso ao conhecimento poderem acompanhar o curso. Ok!?<br>
+          As inscrições foram encerradas às 14h do dia 05/05, pois já haviam ultrapassado a quantidade de vagas disponíveis. Chegamos a 373 inscritos em menos de 6h desde o início das inscrições. Logo, para evitar uma falsa esperança de entrada no curso decidimos encerrar as inscrições. <b>Boa notícia</b>: devido a grande procura iremos postar por aqui mesmo as aulas e atividades propostas ao longo do curso, para àqueles que não conseguiram se inscrever e querem ter acesso ao conhecimento poderem acompanhar o curso. Ok!?<br><br>
 
           Até o dia 12/05 quem se inscreveu receberá informações se foi ou não selecionado para o curso. Quem tiver sido selecionado receberá todos os dados de acesso as plataformas de ensino (google sala de aula e google meet). Atenção: quem tiver fornecido um e-mail que não esteja no G Suite do google infelizmente não poderá fazer o curso.
 
