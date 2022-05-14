@@ -8,6 +8,13 @@ layout: page
     color: #FC5185;
 }
 
+.card{
+  border-radius: 5px;
+  border: 1px solid #FC5185;
+  padding: 1em;
+  margin:1em;
+}
+
 .btn{
   display: flex;
     flex-direction: row;
@@ -41,6 +48,28 @@ a:hover {
 /* selected link */
 a:active {
   color: white;
+}
+
+/* unvisited link */
+.card  a:link {
+  color: blue;
+}
+
+/* visited link */
+.card  a:visited {
+  color: blue;
+}
+
+/* mouse over link */
+.card a:hover {
+  text-decoration: underline;
+  color: #FC5185;
+  box-shadow: none;
+}
+
+/* selected link */
+.card a:active {
+  color: #FC5185;
 }
 </style>
 
@@ -88,6 +117,31 @@ a:active {
           As inscrições foram encerradas às 14h do dia 05/05, pois já haviam ultrapassado a quantidade de vagas disponíveis. Chegamos a 373 inscritos em menos de 6h desde o início das inscrições. Logo, para evitar uma falsa esperança de entrada no curso decidimos encerrar as inscrições. <b>Boa notícia</b>: devido a grande procura iremos postar por aqui mesmo as aulas e atividades propostas ao longo do curso, para àqueles que não conseguiram se inscrever e querem ter acesso ao conhecimento poderem acompanhar o curso. Ok!?<br><br>
 
           Até o dia 12/05 quem se inscreveu receberá informações se foi ou não selecionado para o curso. Quem tiver sido selecionado receberá todos os dados de acesso as plataformas de ensino (google sala de aula e google meet). Atenção: quem tiver fornecido um e-mail que não esteja no G Suite do google infelizmente não poderá fazer o curso.
+
+          <h2 class="post-list-heading">Material Gravado do Curso</h2>
+          Nesta seção estamos disponibilizando o que aconteceu nas aulas síncronas do curso. Bons estudos!
+
+          <div class="card">
+          <h4>Aula 01 - Conjunto dos Números Reais</h4>
+          <strong>Assuntos estudados</strong>: Conjuntos;
+União, interseção e diferença de Conjuntos;
+Conjunto dos números naturais (N);
+Conjunto dos números inteiros (Z);
+Noção de divisibilidade e multiplicidade;
+MMC (Mínimo Múltiplo Comum) e MDC (Máximo Divisor Comum);
+Uso do MMC para trabalhar com soma de frações;
+Frações Irredutíveis (Simplificação);
+Conjunto dos números racionais (Q);
+Dízimas periódicas;
+Conjunto dos números irracionais; e Conjunto dos números reais<br>
+          <strong>Materiais</strong>:
+          <ul>
+            <li><a href="https://www.loom.com/share/5039219b54294876b25a2cd303d74484" target="_blank">Aula Gravada</a></li>
+            <li><a href="https://drive.google.com/file/d/1uD_spBd9pbl8HCNT2Rgxi_7KL24AN7M3/view?usp=sharing" target="_blank">Slides</a></li>
+            <li><a href="https://drive.google.com/file/d/1p1GsuQIc2h7T8y14rb9Ctl1a62w40u-2/view?usp=sharing" target="_blank">Slides com Anotação</a></li>
+          </ul>
+          </div>
+
 
           <h2 class="post-list-heading">Realização</h2>
           Este curso é oferecido pela UESPI sob coordenação dos professores Danilo Borges da Silva e
