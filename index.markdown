@@ -142,6 +142,27 @@ Conjunto dos números irracionais; e Conjunto dos números reais<br>
           </ul>
           </div>
 
+          <div class="card">
+          <h4>Aula 02 - Expressões Numéricas e Introdução a Funções</h4>
+          <strong>Assuntos estudados</strong>: - Operadores binários;
+Operadores unários;
+Sinal nas operações de soma e divisão;
+Multiplicação e divisão de potências de mesma base;
+Ordem de operações;
+Ordem de agrupamento (parênteses, colchetes, chaves);
+Definição de função;
+Condições de existência de uma função; e
+Funções compostas<br>
+          <strong>Materiais</strong>:
+          <ul>
+            <li><a href="https://www.loom.com/share/34c28750657d4d80be327b1751da9e93" target="_blank">Aula Gravada</a></li>
+            <li><a href="https://drive.google.com/file/d/1j6aEuRIMpyYEaATlwqApM_-0784eeLtZ/view?usp=sharing" target="_blank">Slides de Expressões Matemáticas</a></li>
+            <li><a href="https://drive.google.com/file/d/1DHIDnBHWZ1cT7hBgkJIfgKyJTYWCwtoS/view?usp=sharing" target="_blank">Slides de Expressões Matemáticas com Anotação</a></li>
+            <li><a href="https://drive.google.com/file/d/1v7zkysSwY1lMnajvWqr7FKTGzKIVEOFA/view?usp=sharing" target="_blank">Slides de Introdução a Funções</a></li>
+            <li><a href="https://drive.google.com/file/d/1DG7I4C1zYsIxI6KOsxGugSWfm0NdxVrW/view?usp=sharing" target="_blank">Slides de Introdução a Funções com Anotação</a></li>
+          </ul>
+          </div>
+
 
           <h2 class="post-list-heading">Realização</h2>
           Este curso é oferecido pela UESPI sob coordenação dos professores Danilo Borges da Silva e
