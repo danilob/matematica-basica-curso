@@ -144,7 +144,7 @@ Conjunto dos números irracionais; e Conjunto dos números reais<br>
 
           <div class="card">
           <h4>Aula 02 - Expressões Numéricas e Introdução a Funções</h4>
-          <strong>Assuntos estudados</strong>: - Operadores binários;
+          <strong>Assuntos estudados</strong>: Operadores binários;
 Operadores unários;
 Sinal nas operações de soma e divisão;
 Multiplicação e divisão de potências de mesma base;
@@ -160,6 +160,20 @@ Funções compostas<br>
             <li><a href="https://drive.google.com/file/d/1DHIDnBHWZ1cT7hBgkJIfgKyJTYWCwtoS/view?usp=sharing" target="_blank">Slides de Expressões Matemáticas com Anotação</a></li>
             <li><a href="https://drive.google.com/file/d/1v7zkysSwY1lMnajvWqr7FKTGzKIVEOFA/view?usp=sharing" target="_blank">Slides de Introdução a Funções</a></li>
             <li><a href="https://drive.google.com/file/d/1DG7I4C1zYsIxI6KOsxGugSWfm0NdxVrW/view?usp=sharing" target="_blank">Slides de Introdução a Funções com Anotação</a></li>
+          </ul>
+          </div>
+
+          <div class="card">
+          <h4>Aula 03 - Equações e Inequações</h4>
+          <strong>Assuntos estudados</strong>: Equações de primeiro grau;
+Inequações de primeiro grau;
+Equações de segundo grau; e
+Inequações de segundo grau.<br>
+          <strong>Materiais</strong>:
+          <ul>
+            <li><a href="https://www.loom.com/share/f259e2ef5a484795921e498e06fc1cdc" target="_blank">Aula Gravada</a></li>
+            <li><a href="https://drive.google.com/file/d/1ORqsLKqj953diPY8JytGiM0bBy4cXv_k/view?usp=sharing" target="_blank">Slides</a></li>
+            <li><a href="https://drive.google.com/file/d/1GQR-uvumFdPkGM1EUbp8GWtUGcZnFG8_/view?usp=sharing" target="_blank">Slides com Anotação</a></li>
           </ul>
           </div>
 
