@@ -177,6 +177,18 @@ Inequações de segundo grau.<br>
           </ul>
           </div>
 
+          <div class="card">
+          <h4>Aula 04 - Sistema de Coordenadas e Função de Primeiro Grau</h4>
+          <strong>Assuntos estudados</strong>: Sistema de Coordenadas; Função Linear; Função Afim e Estudo do Gráfico. <br>
+          <em>Por problemas técnicos somente 15min da aula foram gravados.</em><br>
+          <strong>Materiais</strong>:
+          <ul>
+            <li><a href="https://www.loom.com/share/712ab8e35a9e40d2bead8aaebdbc498a" target="_blank">Aula Gravada</a></li>
+            <li><a href="https://drive.google.com/file/d/1Ac6UiQ38xGns6z7YfqujWGuljuKOtnj0/view?usp=sharing" target="_blank">Slides</a></li>
+            <li><a href="https://drive.google.com/file/d/1E_9GX16MNnUy97Uh3zG_-YRs63NTMYiM/view?usp=sharing" target="_blank">Slides com Anotação</a></li>
+          </ul>
+          </div>
+
 
           <h2 class="post-list-heading">Realização</h2>
           Este curso é oferecido pela UESPI sob coordenação dos professores Danilo Borges da Silva e
