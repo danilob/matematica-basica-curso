@@ -189,6 +189,18 @@ Inequações de segundo grau.<br>
           </ul>
           </div>
 
+          <div class="card">
+          <h4>Aula 05 - Primeira Revisão</h4>
+          <strong>Assuntos estudados</strong>: Dízima Periódica; Equações e inequações de segundo grau; Funções; Função Afim e Estudo do Gráfico. <br>
+          <strong>Materiais</strong>:
+          <ul>
+            <li><a href="https://www.youtube.com/watch?v=kDwgs99FIyA" target="_blank">Aula Gravada</a></li>
+            <li><a href="https://drive.google.com/file/d/15TfItNF5yGq5a1ndKiTC5AnYd3YA-rYz/view?usp=sharing" target="_blank">Slides</a></li>
+            <li><a href="https://drive.google.com/file/d/1FMPnoYAQQux_ty5deLbou9tApP-09BhT/view?usp=sharing" target="_blank">Slides com Anotação - Parte 1</a></li>
+            <li><a href="https://drive.google.com/file/d/1g6-6Is3FKBxGtliVy5v_sY3Ew4RNcoMm/view?usp=sharing" target="_blank">Slides com Anotação - Parte 2</a></li>
+          </ul>
+          </div>
+
 
           <h2 class="post-list-heading">Realização</h2>
           Este curso é oferecido pela UESPI sob coordenação dos professores Danilo Borges da Silva e
