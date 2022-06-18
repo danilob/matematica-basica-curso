@@ -201,6 +201,19 @@ Inequações de segundo grau.<br>
           </ul>
           </div>
 
+          <div class="card">
+          <h4>Aula 06 - Funções Quadráticas</h4>
+          <strong>Assuntos estudados</strong>: Função de segundo grau;
+Esboço do gráfico da função de segundo grau; e
+Encontro dos zeros da função de segundo grau. <br>
+          <strong>Materiais</strong>:
+          <ul>
+            <li><a href="https://www.youtube.com/watch?v=ud__ph-Fw6w" target="_blank">Aula Gravada</a></li>
+            <li><a href="https://drive.google.com/file/d/156tsn9iISpo-Je_3wuSlTMQMF9wEtOI6/view?usp=sharing" target="_blank">Slides</a></li>
+            <li><a href="https://drive.google.com/file/d/1LODEZrBYdBjHxsdHdDVLGSR-qZE-XG7U/view?usp=sharing" target="_blank">Slides com Anotação</a></li>
+            
+          </ul>
+          </div>
 
           <h2 class="post-list-heading">Realização</h2>
           Este curso é oferecido pela UESPI sob coordenação dos professores Danilo Borges da Silva e
