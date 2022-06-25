@@ -215,6 +215,23 @@ Encontro dos zeros da função de segundo grau. <br>
           </ul>
           </div>
 
+          <div class="card">
+          <h4>Aula 07 - Trigonometria e Funções Trigonométricas</h4>
+          <strong>Assuntos estudados</strong>: Trigonometria;
+Triângulo retângulo;
+Ângulos notáveis;
+Ciclo trigonométrico;
+Funções trigonométricas; e
+Identidades trigonométricas. <br>
+          <strong>Materiais</strong>:
+          <ul>
+            <li><a href="https://www.youtube.com/watch?v=7JmUGcWiNbg" target="_blank">Aula Gravada</a></li>
+            <li><a href="https://drive.google.com/file/d/1zmIJvkgHY6bvT35g8sTu-u48BV4uM0cL/view?usp=sharing" target="_blank">Slides</a></li>
+            <li><a href="https://drive.google.com/file/d/1H3TXuxsU6J0iy-JcwR47hWZ5jjdZjW-g/view?usp=sharing" target="_blank">Slides com Anotação</a></li>
+            
+          </ul>
+          </div>
+
           <h2 class="post-list-heading">Realização</h2>
           Este curso é oferecido pela UESPI sob coordenação dos professores Danilo Borges da Silva e
           Diego Cardoso dos Santos, professores lotados no curso de Ciência da Computação (Floriano/Campus Dra. Josefina Demes).
