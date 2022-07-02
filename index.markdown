@@ -231,6 +231,20 @@ Identidades trigonométricas. <br>
             
           </ul>
           </div>
+          <div class="card">
+          <h4>Aula 08 - Funções Exponenciais</h4>
+          <strong>Assuntos estudados</strong>: 
+Definição da função exponencial;
+Estudo do gráfico; e
+Aplicações. <br>
+          <strong>Materiais</strong>:
+          <ul>
+            <li><a href="https://www.youtube.com/watch?v=fF8hrFgeSCc" target="_blank">Aula Gravada</a></li>
+            <li><a href="https://drive.google.com/file/d/1ZnIsp15nT7iR5oj2-VQXLBCDZcWdgXSW/view?usp=sharing" target="_blank">Slides</a></li>
+            <li><a href="https://drive.google.com/file/d/1dcmuYeqKB2l_zI56LF2GfkrrjTm3ypWu/view?usp=sharing" target="_blank">Slides com Anotação</a></li>
+            
+          </ul>
+          </div>
 
           <h2 class="post-list-heading">Realização</h2>
           Este curso é oferecido pela UESPI sob coordenação dos professores Danilo Borges da Silva e
