@@ -245,6 +245,20 @@ Aplicações. <br>
             
           </ul>
           </div>
+          <div class="card">
+          <h4>Aula 09 - Funções Logarítmicas</h4>
+          <strong>Assuntos estudados</strong>: Logaritmo;
+Função locarítmica;
+Estudo do gráfico; e
+Aplicações. <br>
+          <strong>Materiais</strong>:
+          <ul>
+            <li><a href="https://www.youtube.com/watch?v=zSBY4aWlyZA" target="_blank">Aula Gravada</a></li>
+            <li><a href="https://drive.google.com/file/d/1YhRDM6AWlSZ1v8u1i7vkTSFCirzgLlYB/view?usp=sharing" target="_blank">Slides</a></li>
+            <li><a href="https://drive.google.com/file/d/1Hv3u6MlZa-ur_pmlzavbI6TTBVBul6Gv/view?usp=sharing" target="_blank">Slides com Anotação</a></li>
+            
+          </ul>
+          </div>
 
           <h2 class="post-list-heading">Realização</h2>
           Este curso é oferecido pela UESPI sob coordenação dos professores Danilo Borges da Silva e
