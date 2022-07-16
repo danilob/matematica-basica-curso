@@ -260,6 +260,18 @@ Aplicações. <br>
           </ul>
           </div>
 
+          <div class="card">
+          <h4>Aula 10 - Segunda Revisão</h4>
+          <strong>Assuntos estudados</strong>: Equações e inequações; Trigonometria;  e Funções de Segundo Grau, Trigonométricas, Exponenciais e Logarítmicas. <br>
+          <strong>Materiais</strong>:
+          <ul>
+            <li><a href="https://youtu.be/pPMn4y_pUfo" target="_blank">Aula Gravada</a></li>
+            <li><a href="https://drive.google.com/file/d/1P6jZ9LBDfMMm0avph-m8bl6uPtz2WfAj/view?usp=sharing" target="_blank">Slides</a></li>
+            <li><a href="https://drive.google.com/file/d/1WsDn6OdW9uVBMq0L6L7qgjLpr6vzLmua/view?usp=sharing" target="_blank">Slides com Anotação - Parte 1</a></li>
+            <li><a href="https://drive.google.com/file/d/1I-A9RzpCUwb_QoWTi_Sm8LTRjtT2_zwM/view?usp=sharing" target="_blank">Slides com Anotação - Parte 2</a></li>
+          </ul>
+          </div>
+
           <h2 class="post-list-heading">Realização</h2>
           Este curso é oferecido pela UESPI sob coordenação dos professores Danilo Borges da Silva e
           Diego Cardoso dos Santos, professores lotados no curso de Ciência da Computação (Floriano/Campus Dra. Josefina Demes).
